@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name"><b>Pizza Party</b></string>
+    <string name="total_pizzas"><b>Total pizzas: %d</b></string>
+</resources>
